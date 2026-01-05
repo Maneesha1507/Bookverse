@@ -9,13 +9,13 @@ It presents book-related content in a clean layout with a responsive design.
 - Easy to customize
 - Beginner-friendly project
 
-## 🛠️ Technologies Used
+## 🔹Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## 🎯 Purpose
+## 🔹Purpose
 This project was created for learning and practicing frontend development skills.
 
-## 👩‍💻 Author
+## 🔹 Author
 Maneesha
