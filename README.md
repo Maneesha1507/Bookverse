@@ -1,23 +1,21 @@
-BookVerse
+# 📚 BookVerse
 
-BookVerse is a simple frontend project built using HTML, CSS, and JavaScript.  
-It provides a clean and responsive user interface for displaying books.
+BookVerse is a simple frontend web project built using HTML, CSS, and JavaScript.  
+It presents book-related content in a clean layout with a responsive design.
 
-Features
-- Simple and clean UI
-- Responsive design
+## 🔹 Features
+- Responsive layout
+- Clean and simple UI
+- Easy to customize
 - Beginner-friendly project
 
-Technologies Used
+## 🛠️ Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-Files Included
-- index.html
-- styles.css
-- scripts.js
-- bookverse.png
+## 🎯 Purpose
+This project was created for learning and practicing frontend development skills.
 
-👩‍💻 Author
-Maneesha 
+## 👩‍💻 Author
+Maneesha
